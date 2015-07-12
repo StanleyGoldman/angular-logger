@@ -35,6 +35,8 @@ var LoggingEnhancer = require('../bower_components/better-logging-base/dist/logg
 				}
 			};
 		};
+
+		return provider;
 	}).
 	
 	/*
